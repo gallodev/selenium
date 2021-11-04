@@ -1,0 +1,1072 @@
+1636043209589	geckodriver	INFO	Listening on 127.0.0.1:35225
+1636043209594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40635" "-no-remote" "-profile" "/tmp/rust_mozprofileRfh5D2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043210339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRfh5D2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40635/devtools/browser/504d3cf5-bbb7-4e14-b3fd-a2f8eb331fbc
+1636043211593	Marionette	INFO	Listening on port 43247
+1636043211623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636043222787	geckodriver	INFO	Listening on 127.0.0.1:35345
+1636043222793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44423" "-no-remote" "-profile" "/tmp/rust_mozprofileV7oOqj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043223574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV7oOqj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44423/devtools/browser/8f8d63f2-2a91-4fb1-a76e-ab078abd4296
+1636043224770	Marionette	INFO	Listening on port 44435
+1636043224810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636043259826	geckodriver	INFO	Listening on 127.0.0.1:34287
+1636043259831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55409" "-no-remote" "-profile" "/tmp/rust_mozprofileglm29V"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043260634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileglm29V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55409/devtools/browser/e5f206ee-ff5b-45a5-a18c-f72b92575835
+1636043261621	Marionette	INFO	Listening on port 33275
+1636043261649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636043282699	geckodriver	INFO	Listening on 127.0.0.1:44807
+1636043282705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45053" "-no-remote" "-profile" "/tmp/rust_mozprofilebsFSsx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043283547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebsFSsx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45053/devtools/browser/60fc1595-7bd2-4e55-ad94-7c80bfedb0e7
+1636043284614	Marionette	INFO	Listening on port 33983
+1636043284730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1636043327517	geckodriver	INFO	Listening on 127.0.0.1:53221
+1636043327523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60921" "-no-remote" "-profile" "/tmp/rust_mozprofileYSZ5sd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043328360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYSZ5sd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60921/devtools/browser/7be71a80-17b4-4443-b5d3-10857c902bba
+1636043329463	Marionette	INFO	Listening on port 42297
+1636043329540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636043343600	Marionette	INFO	Stopped listening on port 44435
+1636043343623	Marionette	INFO	Stopped listening on port 33275
+1636043343624	Marionette	INFO	Stopped listening on port 43247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636043343690	Marionette	INFO	Stopped listening on port 42297
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636043343782	Marionette	INFO	Stopped listening on port 33983
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636043451709	geckodriver	INFO	Listening on 127.0.0.1:46789
+1636043451715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49097" "-no-remote" "-profile" "/tmp/rust_mozprofileHo08QF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043452524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHo08QF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49097/devtools/browser/d0e4d4e6-646b-4f67-828e-2ec6b23cee30
+1636043453579	Marionette	INFO	Listening on port 45933
+1636043453636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636043505793	geckodriver	INFO	Listening on 127.0.0.1:60087
+1636043505798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58153" "-no-remote" "-profile" "/tmp/rust_mozprofileZ0YSBa"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043506546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ0YSBa/search.json.mozlz4", (void 0)))
+1636043507426	Marionette	INFO	Stopped listening on port 45933
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636043510619	geckodriver	INFO	Listening on 127.0.0.1:54193
+1636043510625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40253" "-no-remote" "-profile" "/tmp/rust_mozprofilelHaKlw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043511463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelHaKlw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40253/devtools/browser/2015236c-f590-4701-ac26-42d4ba981d15
+1636043512842	Marionette	INFO	Listening on port 41227
+1636043512961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636043849172	geckodriver	INFO	Listening on 127.0.0.1:33647
+1636043849178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46231" "-no-remote" "-profile" "/tmp/rust_mozprofile9GDU4w"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043850001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9GDU4w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46231/devtools/browser/d7c31096-a091-4a7a-a320-66e85d49861b
+1636043851146	Marionette	INFO	Listening on port 44227
+1636043851197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043859474	Marionette	INFO	Stopped listening on port 44227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636043877671	geckodriver	INFO	Listening on 127.0.0.1:45843
+1636043877677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35931" "-no-remote" "-profile" "/tmp/rust_mozprofilezA2bXE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043878472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezA2bXE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35931/devtools/browser/51ed7c8a-e0ca-46b9-b6a8-641c47af639c
+1636043879666	Marionette	INFO	Listening on port 38715
+1636043879694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://github.com"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1636043920463	geckodriver	INFO	Listening on 127.0.0.1:55237
+1636043920469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57575" "-no-remote" "-profile" "/tmp/rust_mozprofileOhNtVS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043921289	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOhNtVS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57575/devtools/browser/cdc60fca-27e9-4fa8-b31c-220dfae1fac7
+1636043922279	Marionette	INFO	Listening on port 40919
+1636043922387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043937605	Marionette	INFO	Stopped listening on port 38715
+1636043937612	Marionette	INFO	Stopped listening on port 40919
+1636043937622	Marionette	INFO	Stopped listening on port 41227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636043939604	geckodriver	INFO	Listening on 127.0.0.1:42435
+1636043939610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59637" "-no-remote" "-profile" "/tmp/rust_mozprofileevx3Pl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043940407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileevx3Pl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59637/devtools/browser/ea4a9e44-966c-430f-b965-d7e63f974758
+1636043941541	Marionette	INFO	Listening on port 41829
+1636043941627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043962721	geckodriver	INFO	Listening on 127.0.0.1:47337
+1636043962727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35931" "-no-remote" "-profile" "/tmp/rust_mozprofileEc76DH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636043963556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEc76DH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35931/devtools/browser/7d6474b2-e4d6-4289-a829-bc35302b7424
+1636043964741	Marionette	INFO	Listening on port 38997
+1636043964850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636044001259	geckodriver	INFO	Listening on 127.0.0.1:39335
+1636044001265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49263" "-no-remote" "-profile" "/tmp/rust_mozprofileKXL3Q9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636044002087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKXL3Q9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49263/devtools/browser/8c66d1d5-17d7-4178-995b-2a3b8b3a93e4
+1636044003491	Marionette	INFO	Listening on port 42181
+1636044003989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636044144673	geckodriver	INFO	Listening on 127.0.0.1:49805
+1636044144679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58787" "-no-remote" "-profile" "/tmp/rust_mozprofileVwm2em"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636044145499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVwm2em/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58787/devtools/browser/91aa4a71-940e-40a4-8058-d3e0d9e9bde4
+1636044146883	Marionette	INFO	Listening on port 45591
+1636044146903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lFqatAGMGI5ruFOuc2G8YqsaAHQUb5EGFuJALWeAUJk.js line 1 > eval line 4278 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lFqatAGMGI5ruFOuc2G8YqsaAHQUb5EGFuJALWeAUJk.js line 1 > eval line 4927 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lFqatAGMGI5ruFOuc2G8YqsaAHQUb5EGFuJALWeAUJk.js line 1 > eval line 6304 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aNNWlbpyBdP4mP9d7th6qOA8X9p-adJ6S1XSHexjUrk.js line 1 > eval line 3600 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lFqatAGMGI5ruFOuc2G8YqsaAHQUb5EGFuJALWeAUJk.js line 1 > eval line 2643 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156319&userIdMacro=PM_UID&predirect=https%3A%2F%2Fe.serverbid.com%2Fudb%2F9969%2Fsync%2Fi.gif%3FpartnerId%3D4%26userId%3DPM_UID, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=157511, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lFqatAGMGI5ruFOuc2G8YqsaAHQUb5EGFuJALWeAUJk.js line 1 > eval line 527 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&gdpr_consent=&us_privacy=&predirect=https%3A%2F%2Fsync.console.adtarget.com.tr%2Fcsync%3Ft%3Da%26ep%3D307406%26extuid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156631&s=&predirect=https%3A%2F%2Fu-iad04.e-planning.net%2Fum%3Fdc%3Da208d9366469aa64%26fi%3D6c75dd8a8ff4cf8b%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lFqatAGMGI5ruFOuc2G8YqsaAHQUb5EGFuJALWeAUJk.js line 1 > eval line 33 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lFqatAGMGI5ruFOuc2G8YqsaAHQUb5EGFuJALWeAUJk.js line 1 > eval line 6480 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159196&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&predirect=https%3A%2F%2Flive.primis.tech%2Flive%2FliveCS.php%3Fsource%3Dexternal%26csuuid%3D61840ddc805b7%26pixel%3D%26advId%3D91%26advUuid%3DPM_UID%26gdpr%3D0%26gdpr_consent%3D, line 1: ReferenceError: CommonMeta is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636044410313	geckodriver	INFO	Listening on 127.0.0.1:57523
+1636044410320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35389" "-no-remote" "-profile" "/tmp/rust_mozprofileKtcc44"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636044411139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKtcc44/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35389/devtools/browser/b9c8a78a-b506-453d-b322-b7ed3bede577
+1636044412521	Marionette	INFO	Listening on port 46103
+1636044412544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636044462597	geckodriver	INFO	Listening on 127.0.0.1:44549
+1636044462607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35869" "-no-remote" "-profile" "/tmp/rust_mozprofile1eRddK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636044463785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1eRddK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35869/devtools/browser/cd08106b-9163-4b98-82ce-07e8bf34ad94
+1636044465753	Marionette	INFO	Listening on port 42329
+1636044465849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636044473102	Marionette	INFO	Stopped listening on port 42329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636044520000	geckodriver	INFO	Listening on 127.0.0.1:54925
+1636044520015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48003" "-no-remote" "-profile" "/tmp/rust_mozprofileo5uEod"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636044521052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo5uEod/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48003/devtools/browser/93030afb-66a3-4d21-acfd-139c39c1758f
+1636044523116	Marionette	INFO	Listening on port 45067
+1636044523145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636044534995	Marionette	INFO	Stopped listening on port 45067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636044536621	Marionette	INFO	Stopped listening on port 41829
+1636044536628	Marionette	INFO	Stopped listening on port 45591
+1636044536634	Marionette	INFO	Stopped listening on port 38997
+1636044536651	Marionette	INFO	Stopped listening on port 46103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636044536743	Marionette	INFO	Stopped listening on port 42181
+[Parent 46100, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+[Parent 44139, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 44468, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636051233804	geckodriver	INFO	Listening on 127.0.0.1:48767
+1636051234311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45635" "-no-remote" "-profile" "/tmp/rust_mozprofilegfQfQ3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636051235419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegfQfQ3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45635/devtools/browser/86ed1dc7-94e0-4a47-9593-2b283a3dc9c7
+1636051236920	Marionette	INFO	Listening on port 37227
+1636051237034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636051459541	geckodriver	INFO	Listening on 127.0.0.1:35809
+1636051459547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53825" "-no-remote" "-profile" "/tmp/rust_mozprofiled5Gp7R"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636051460315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled5Gp7R/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2952: TypeError: event.target.closest is not a function
+DevTools listening on ws://localhost:53825/devtools/browser/6321bc33-565e-488c-a2b2-2a8619eca832
+1636051461469	Marionette	INFO	Listening on port 37399
+1636051462084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636051462470	Marionette	INFO	Stopped listening on port 37399
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636051462526	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2110:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2103: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofiled5Gp7R/protections.sqlite
+[2021-11-04T18:44:22Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "Arquivo ou diretório inexistente" })) }
+1636051465922	geckodriver	INFO	Listening on 127.0.0.1:42657
+1636051465926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51131" "-no-remote" "-profile" "/tmp/rust_mozprofilekJji9K"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636051466719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekJji9K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51131/devtools/browser/b506d894-5e27-4403-9406-5c8f49db7a92
+1636051467733	Marionette	INFO	Listening on port 33855
+1636051467844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636051529076	geckodriver	INFO	Listening on 127.0.0.1:35217
+1636051529082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46261" "-no-remote" "-profile" "/tmp/rust_mozprofileWjJa1h"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636051529895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWjJa1h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46261/devtools/browser/4bc39a60-f16d-4253-b917-c0e8ad51cdc5
+1636051531511	Marionette	INFO	Listening on port 39221
+1636051531602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636051561695	Marionette	INFO	Stopped listening on port 33855
+1636051561699	Marionette	INFO	Stopped listening on port 37227
+1636051561732	Marionette	INFO	Stopped listening on port 39221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636053464638	geckodriver	INFO	Listening on 127.0.0.1:46521
+1636053464644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36301" "-no-remote" "-profile" "/tmp/rust_mozprofileOfpLUW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053465426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOfpLUW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36301/devtools/browser/4f60037d-0161-4d24-9034-4fc00fa26e4b
+1636053466558	Marionette	INFO	Listening on port 41891
+1636053467127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636053483266	Marionette	INFO	Stopped listening on port 41891
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636053527010	geckodriver	INFO	Listening on 127.0.0.1:57919
+1636053527017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60009" "-no-remote" "-profile" "/tmp/rust_mozprofile5yiD5Q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053527891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5yiD5Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60009/devtools/browser/13b2cdaf-0e70-4562-abf5-60a1c805873d
+1636053529180	Marionette	INFO	Listening on port 46827
+1636053529243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636053552215	geckodriver	INFO	Listening on 127.0.0.1:49197
+1636053552220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57485" "-no-remote" "-profile" "/tmp/rust_mozprofile6ROH1y"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053553011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6ROH1y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57485/devtools/browser/d8232be3-df31-4f3c-b4a3-08fcb1542ebc
+1636053554387	Marionette	INFO	Listening on port 45501
+1636053554443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636053616537	geckodriver	INFO	Listening on 127.0.0.1:52595
+1636053616542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48353" "-no-remote" "-profile" "/tmp/rust_mozprofileMCwrBw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053617347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMCwrBw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48353/devtools/browser/3c2c7049-8116-4006-a17d-63e9f1bbb179
+1636053618602	Marionette	INFO	Listening on port 35317
+1636053618669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636053635386	Marionette	INFO	Stopped listening on port 46827
+1636053635402	Marionette	INFO	Stopped listening on port 35317
+1636053635452	Marionette	INFO	Stopped listening on port 45501
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636053664522	geckodriver	INFO	Listening on 127.0.0.1:51931
+1636053664528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56135" "-no-remote" "-profile" "/tmp/rust_mozprofileWDYafJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053665318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWDYafJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56135/devtools/browser/e7d403e9-4dc2-4952-b83c-4f96f6500156
+1636053666469	Marionette	INFO	Listening on port 33747
+1636053667019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636053696423	geckodriver	INFO	Listening on 127.0.0.1:43601
+1636053696429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55925" "-no-remote" "-profile" "/tmp/rust_mozprofiletIoOYh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053697240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletIoOYh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55925/devtools/browser/668dcd79-9603-4cea-a31d-37f110c6a72c
+1636053698406	Marionette	INFO	Listening on port 41545
+1636053698449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636053714174	geckodriver	INFO	Listening on 127.0.0.1:50309
+1636053714181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53995" "-no-remote" "-profile" "/tmp/rust_mozprofiletxgGw6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053715019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletxgGw6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53995/devtools/browser/5bd54e37-c15d-4132-a3cd-56d498681bd3
+1636053716281	Marionette	INFO	Listening on port 32769
+1636053716310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636053719483	Marionette	INFO	Stopped listening on port 32769
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636053848718	geckodriver	INFO	Listening on 127.0.0.1:39271
+1636053848724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51663" "-no-remote" "-profile" "/tmp/rust_mozprofileJQNdCc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053849553	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJQNdCc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51663/devtools/browser/9cbd56b3-f8f5-403e-b438-bd1e102c0943
+1636053850985	Marionette	INFO	Listening on port 35957
+1636053851051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636053878726	Marionette	INFO	Stopped listening on port 41545
+1636053878758	Marionette	INFO	Stopped listening on port 35957
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636053878859	Marionette	INFO	Stopped listening on port 33747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636053880740	geckodriver	INFO	Listening on 127.0.0.1:40853
+1636053880745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50801" "-no-remote" "-profile" "/tmp/rust_mozprofileQtcCbG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636053881633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQtcCbG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50801/devtools/browser/b0283b4d-50c6-490d-8f4f-f2ddd35b884f
+1636053882990	Marionette	INFO	Listening on port 33515
+1636053883068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636053893504	Marionette	INFO	Stopped listening on port 33515
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 69835, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1636054014666	geckodriver	INFO	Listening on 127.0.0.1:50523
+1636054014672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48993" "-no-remote" "-profile" "/tmp/rust_mozprofiledQAzvd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054015536	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledQAzvd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48993/devtools/browser/68dcca16-98c3-4bd1-80d8-398046c3a28a
+1636054016707	Marionette	INFO	Listening on port 34139
+1636054016793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636054293897	Marionette	INFO	Stopped listening on port 34139
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636054336338	geckodriver	INFO	Listening on 127.0.0.1:37577
+1636054336344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39805" "-no-remote" "-profile" "/tmp/rust_mozprofilewOsZHu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054337183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewOsZHu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39805/devtools/browser/7f331651-cedc-407b-9bda-9a7ac89a62c6
+1636054338356	Marionette	INFO	Listening on port 39479
+1636054338469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636054421862	geckodriver	INFO	Listening on 127.0.0.1:49245
+1636054421880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57955" "-no-remote" "-profile" "/tmp/rust_mozprofileZdDbfL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054422744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZdDbfL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57955/devtools/browser/788cf1a6-c0bb-4b88-b048-97f53e5632a7
+1636054423901	Marionette	INFO	Listening on port 42009
+1636054424001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636054700294	geckodriver	INFO	Listening on 127.0.0.1:36143
+1636054700299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53583" "-no-remote" "-profile" "/tmp/rust_mozprofileeylemv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054701082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeylemv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53583/devtools/browser/153e9fb2-fc78-4331-a945-f480ba2dcb9e
+1636054702150	Marionette	INFO	Listening on port 42265
+1636054702218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636054722037	geckodriver	INFO	Listening on 127.0.0.1:45651
+1636054722043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38367" "-no-remote" "-profile" "/tmp/rust_mozprofiled5rB8n"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054722939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled5rB8n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38367/devtools/browser/0281eb35-feef-47c9-966e-5270df91c6c7
+1636054724192	Marionette	INFO	Listening on port 36817
+1636054724275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636054764422	Marionette	INFO	Stopped listening on port 36817
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 73134, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636054767381	geckodriver	INFO	Listening on 127.0.0.1:51735
+1636054767387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46371" "-no-remote" "-profile" "/tmp/rust_mozprofilep6ji4J"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054768282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep6ji4J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46371/devtools/browser/16a95fef-4c35-4368-98a8-c583b095a0e4
+1636054769731	Marionette	INFO	Listening on port 35679
+1636054770039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636054793264	geckodriver	INFO	Listening on 127.0.0.1:53501
+1636054793269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59601" "-no-remote" "-profile" "/tmp/rust_mozprofileJywgrH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054794071	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJywgrH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59601/devtools/browser/30f859d8-5fde-47c2-989a-d8a3798ac82a
+1636054795247	Marionette	INFO	Listening on port 34099
+1636054795295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636054812557	Marionette	INFO	Stopped listening on port 39479
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636054814227	Marionette	INFO	Stopped listening on port 34099
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 73818, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-HSiFn6/firefox-94.0+build3/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636054905730	geckodriver	INFO	Listening on 127.0.0.1:54635
+1636054905748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33343" "-no-remote" "-profile" "/tmp/rust_mozprofileu61vCt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054906687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu61vCt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33343/devtools/browser/fe573ee1-1ca3-4706-ac22-ae0753a01891
+1636054908083	Marionette	INFO	Listening on port 39989
+1636054908174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636054936750	geckodriver	INFO	Listening on 127.0.0.1:49449
+1636054936756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54275" "-no-remote" "-profile" "/tmp/rust_mozprofilee168AI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054937703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee168AI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54275/devtools/browser/5ec95451-95c9-46df-98c0-8eb42013d640
+1636054939099	Marionette	INFO	Listening on port 42483
+1636054939181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636054960518	geckodriver	INFO	Listening on 127.0.0.1:38807
+1636054960523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34401" "-no-remote" "-profile" "/tmp/rust_mozprofileVRRtjS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636054961355	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVRRtjS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34401/devtools/browser/de4a663e-1c64-402c-b104-a8ee217a2790
+1636054962702	Marionette	INFO	Listening on port 32925
+1636054962744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636055049062	geckodriver	INFO	Listening on 127.0.0.1:54569
+1636055049068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36991" "-no-remote" "-profile" "/tmp/rust_mozprofileM3r6ba"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636055049903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM3r6ba/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36991/devtools/browser/fea5ff58-b5e2-4fa1-a87f-32713251064e
+1636055051182	Marionette	INFO	Listening on port 34125
+1636055051310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636055071988	geckodriver	INFO	Listening on 127.0.0.1:36437
+1636055071994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52161" "-no-remote" "-profile" "/tmp/rust_mozprofileR1sBjm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636055072810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR1sBjm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52161/devtools/browser/b03725a8-e552-43c3-b579-a23c134a662d
+1636055074005	Marionette	INFO	Listening on port 45173
+1636055074115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636055092716	geckodriver	INFO	Listening on 127.0.0.1:45537
+1636055092721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50811" "-no-remote" "-profile" "/tmp/rust_mozprofilez5dsJq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636055093523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez5dsJq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50811/devtools/browser/c0113b4d-d997-4477-a63f-6f6b3d35d28b
+1636055094677	Marionette	INFO	Listening on port 46139
+1636055094738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636057928947	geckodriver	INFO	Listening on 127.0.0.1:36295
+1636057928953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35933" "-no-remote" "-profile" "/tmp/rust_mozprofileOJyAli"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636057929990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOJyAli/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35933/devtools/browser/00c9d4ac-f388-41ea-a5c1-719a51a3a91e
+1636057931158	Marionette	INFO	Listening on port 35541
+1636057931272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636058045056	Marionette	INFO	Stopped listening on port 35541
+1636058045057	Marionette	INFO	Stopped listening on port 46139
+1636058045082	Marionette	INFO	Stopped listening on port 32925
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636058114724	geckodriver	INFO	Listening on 127.0.0.1:59137
+1636058114730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50781" "-no-remote" "-profile" "/tmp/rust_mozprofilea6aM53"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636058115482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea6aM53/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50781/devtools/browser/f3962a45-5a03-47a5-b3be-a9f728400443
+1636058116677	Marionette	INFO	Listening on port 35839
+1636058116748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636058172562	geckodriver	INFO	Listening on 127.0.0.1:59813
+1636058172568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55245" "-no-remote" "-profile" "/tmp/rust_mozprofile2n7u16"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636058173342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2n7u16/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55245/devtools/browser/57bde3c3-ab00-4d17-9832-8902f316c19b
+1636058174450	Marionette	INFO	Listening on port 34265
+1636058174489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636058192414	Marionette	INFO	Stopped listening on port 35839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636058240974	geckodriver	INFO	Listening on 127.0.0.1:42115
+1636058240980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55833" "-no-remote" "-profile" "/tmp/rust_mozprofile7qy8oM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636058241795	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7qy8oM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55833/devtools/browser/36a4b0d8-bf07-4c68-b984-731404529ae6
+1636058243008	Marionette	INFO	Listening on port 45889
+1636058243124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636058460697	geckodriver	INFO	Listening on 127.0.0.1:42073
+1636058460703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48717" "-no-remote" "-profile" "/tmp/rust_mozprofileNvZeMu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636058461494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNvZeMu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48717/devtools/browser/06cd38ff-6633-48c2-a92a-db7bddcf0a40
+1636058462703	Marionette	INFO	Listening on port 37765
+1636058462724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636058484585	geckodriver	INFO	Listening on 127.0.0.1:40689
+1636058484591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36039" "-no-remote" "-profile" "/tmp/rust_mozprofileRjAoCo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636058485424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRjAoCo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36039/devtools/browser/9beea01c-474a-4c55-85d8-f5971630da15
+1636058486666	Marionette	INFO	Listening on port 44865
+1636058486708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636058497704	Marionette	INFO	Stopped listening on port 44865
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636058660992	geckodriver	INFO	Listening on 127.0.0.1:44439
+1636058660997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49133" "-no-remote" "-profile" "/tmp/rust_mozprofileEmoIHR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636058661826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEmoIHR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49133/devtools/browser/45559141-4a29-423e-b923-bf344c672536
+1636058662936	Marionette	INFO	Listening on port 33215
+1636058663015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: https://github.githubassets.com/assets/environment-ff4cecfd.js, line 2: Error: could not resolve ./chunk-jump-to.js, error loading the module
+1636058698959	geckodriver	INFO	Listening on 127.0.0.1:35379
+1636058698965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34605" "-no-remote" "-profile" "/tmp/rust_mozprofilekd0UTr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636058699786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekd0UTr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34605/devtools/browser/938d84fb-891e-4033-ab7f-fcbcf0b3e7e0
+1636058701031	Marionette	INFO	Listening on port 43225
+1636058701092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636058703545	Marionette	INFO	Stopped listening on port 43225
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636058770099	geckodriver	INFO	Listening on 127.0.0.1:36383
+1636058770105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40435" "-no-remote" "-profile" "/tmp/rust_mozprofileh8uqKs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636058770918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh8uqKs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40435/devtools/browser/3c8464c7-b81b-4efe-b895-89ee413277cd
+1636058772129	Marionette	INFO	Listening on port 44727
+1636058772983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1636058775724	Marionette	INFO	Stopped listening on port 44727
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636058843113	Marionette	INFO	Stopped listening on port 37765
+1636058843114	Marionette	INFO	Stopped listening on port 33215
+1636058843161	Marionette	INFO	Stopped listening on port 34265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
